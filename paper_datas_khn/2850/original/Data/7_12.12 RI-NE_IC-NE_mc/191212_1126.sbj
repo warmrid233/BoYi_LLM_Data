@@ -1,0 +1,36 @@
+Z:\zTree\User\expdata\191212_1126.sbj
+Subject	1	2	3	4	5	6	7	8	9	10
+client	18	19	20	22	24	25	28	29	30	17
+exp1	  0	  7	  3	  3	  5	  8	  0	  0	  1	  1
+exp2	  0	  7	  1	  1	  4	  4	  0	  1	  6	  3
+exp3_1	  2	  8	  6	  5	  5	  6	  7	  9	  7	  0
+exp3_2	  5	  1	  6	  4	  5	  8	  9	  4	  9	  7
+exp3_3	  0	  0	  0	  7	  3	  2	  1	  0	  1	  0
+exp3_4	  8	  10	  8	  3	  6	  8	  9	  10	  9	  9
+exp3_5	  3	  8	  6	  6	  5	  7	  4	  7	  2	  9
+exp4	  10	  9	  10	  7	  3	  9	  8	  5	  10	  6
+choice1	I was hoping people would choose blue en therefore have the most equal pay for both. If this was the case, ONCE would be more profitable. Alas, people seemed quite self-centered.	Once, because you could not lose any points.	Repeat is better, it has more chance to make an average of 60 payoff because you can work together	ramdom	I choose  ONCE to have an instant and safe gain	I did not want to be penalized with -15 points.	I choose ONCE because I had fewer risks to loose points	To see how people react in different situations and under different motivations	Better chance of both choosing blue over several rounds.	For ONCE there were no costs
+choice2	Seeing how people got punished I figured they would be more likely to choose the more equal one, so blue. Therefore it would be more profitable to both pick blue and get more point than with yellow. Since people in ONCE appeared to pick yellow pretty consistantly this seemed the more safe choice.	Once, because you could not lose points. Contract because I thought everyone would pick Blue.	Contract is the better option, almost guaranteed payoff of 60 (minus 15) if the other party is not stupid. ONCE gives 20 because yellow is the logical option.	ramdom	I choose CONTRACT to try a new choice	Again, I went with the choice with which I would not lose 15 points.	I choose ONCE because I had fewer risks to loose points. I was sure to earn at least few points.	To see how people react in different situations and under different motivations	Less likelyhood of the other person choosing yellow in contract. Obviously I was wrong and the other person is either a moron or a sociopath.	For ONCE there were no costs
+choice3	I chose contract because of the reasons mentioned before. I didn't particularely like the repeat option since you still had a pretty good chance people would choose yellow anyway.	Repeat, because you could just put Yellow and earn at least 20 points on every round.	Contract is the better option, almost guaranteed payoff of 60 (minus 15). Repeat you can get mistreated if after working together for blue/blue the other party decides to go yellow	ramdom	I chose different ccomand to try everything	I saw I would maximize my points if I chose CONTRACT over REPEAT.	I choose REPEAT because I had fewer risks to loose points	To see how people react in different situations and under different motivations	Contract because I thought the other person would never choose yellow. Repeat after since the other person did inexplicably choose yellow.	I thought I would make more money in REPEAT
+trust1	  6	  3	  2	  6	  7	  6	  1	  3	  8	  1
+trust2	  4	  2	  2	  3	  3	  6	  7	  1	  2	  1
+trust3	  5	  2	  8	  6	  2	  6	  4	  4	  5	  0
+risk1	  7	  1	  7	  6	  10	  7	  0	  7	  9	  10
+risk1_a	  3	  0	  0	  3	  0	  0	  2	  1	  1	  2
+risk1_b	  6	  0	  2	  5	  8	  1	  0	  6	  3	  2
+risk1_c	  0	  1	  8	  7	  7	  6	  8	  8	  8	  7
+risk1_d	  7	  2	  4	  6	  8	  3	  4	  9	  8	  9
+risk1_e	  2	  3	  3	  6	  8	  1	  6	  2	  6	  2
+risk1_f	  6	  4	  4	  6	  7	  5	  7	  0	  9	  1
+reciprocity1	  2	  1	  4	  5	  10	  8	  4	  8	  1	  6
+reciprocity2	  2	  6	  3	  5	  9	  7	  6	  7	  2	  6
+reciprocity3	  10	  8	  5	  6	  10	  6	  10	  9	  10	  10
+reciprocity4	  4	  0	  2	  5	  7	  5	  2	  8	  1	  7
+gender	Female	Female	Male	Male	Male	Female	Female	Male	Male	Female
+age	26	23	20	24	23	19	21	26	25	23
+nationality	Dutch	Dutch	Dutch	spanish	Italy	Mexican	FRENCH	Turkish	Israeli	Dutch
+friends	0	0	0	0	0	1	0	0	0	0
+student	No	Yes	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes
+study	-	Algemene sociale wetenschappen	Economics	Banking and finance	Economics	Undecided major	LAW		Anthropology and philosophy	International Development
+experience	Yes, five times or more	Yes, once or twice	Yes, more than two times but less than five	Yes, once or twice	Yes, more than two times but less than five	Yes, more than two times but less than five	Yes, once or twice	Yes, five times or more	Yes, once or twice	Yes, once or twice
+game_theory	No;	No;	Yes, I have attended a course (including online courses);Yes, I have read literature;	Yes, I have attended a course (including online courses);	No;	Yes, I have attended a course (including online courses);Yes, I have read literature;	No;	Yes, I have attended a course (including online courses);	Yes, I have read literature;	No;

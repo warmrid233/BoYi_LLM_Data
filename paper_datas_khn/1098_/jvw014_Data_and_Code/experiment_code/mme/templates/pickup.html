@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %} Login (not for users) {% endblock %}
+
+{% block content %} 
+
+<h1> Enter secret code to pick up lost session</h1>
+<p> The secret code is used to pick up a session that is lost
+because a participant accidentally closed the browser, 
+because a computer failed, or because we for some reason
+need to move a participant to another work station.</p>
+
+<p> The secret code has 8 characters and is provided by IT 
+support - who needs to know the work station number of 
+the lost/failed session.</p>
+
+<form action="." method="POST">
+<table>
+{{ form.as_table }}
+</table>
+<br>
+<input type=submit>
+</form>
+
+
+{% endblock %}

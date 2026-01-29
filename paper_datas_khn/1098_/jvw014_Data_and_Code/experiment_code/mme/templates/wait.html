@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block title %} Vennligst vent {% endblock %}
+{% block meta %} <meta http-equiv="refresh" content="30"> {% endblock %}
+
+{% block heading %}Vennligst vent{% endblock %}
+
+{% block content %}
+
+    {{ message|safe }}
+
+{% endblock %}

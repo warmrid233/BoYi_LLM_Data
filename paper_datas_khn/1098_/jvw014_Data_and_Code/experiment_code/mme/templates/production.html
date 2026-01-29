@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1> Produksjonsoppgave</h1>
+
+<script language="JavaScript">
+var ticks=10*{{ seconds }};
+
+function uncheckall() {
+	var ins = document.getElementsByTagName('input');
+	for (var i=0; i<ins.length; i++) {
+		if (ins[i].getAttribute('type')=='checkbox') {
+			ins[i].checked=false;
+		}
+	}
+}
+</script>
+
+
+<p> Du tjener et poeng for hvert korrekt tall du krysser av,
+og taper et poeng for hver feil avkryssing.</p>
+
+<p> Produksjonen er ferdig n&aring;r du n&aring;r {{ requirement }} poeng.</p>
+
+<p> Du kan f&aring; frem en ny tabell n&aring;r som helst ved &aring; trykke
+p&aring; "send" knappen.</p>
+
+
+
+<p> I tabellen under, kryss av for tallet  <b> {{ secret }}</b>.</p>
+<form name=prodform action="." method=POST
+	onsubmit="return true;">
+{{ productiontable|safe }}
+<p> Sekunder igjen: <input type=textfield name=timeleft size=5 value= {{seconds}} >
+<input type=submit value="Send">
+
+</form>
+<script language="JavaScript">
+function subtractTicks() {
+	ticks = ticks - 1
+	document.prodform.timeleft.value = ticks/10
+	if (ticks<=0) {
+		document.prodform.target="_self";
+		clearInterval(clockid)
+		document.prodform.submit();
+
+	}
+}
+var clockid=setInterval("subtractTicks()", 100)
+</script>
+
+{% if points %}
+	<p> Til n&aring; har du oppn&aring;dd {{ points }} av {{ requirement }} n&oslash;dvendige poeng.</p>
+{% endif %}
+
+<script> uncheckall(); </script>
+{% endblock %}

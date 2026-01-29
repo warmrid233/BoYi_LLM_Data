@@ -1,0 +1,24 @@
+		(1)	(2)	(3)	(4)	(5)
+		Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	(mean) group_success1	(mean) group_success1
+VARIABLES	LABELS	mfx dydx	mfx dydx	mfx dydx	mfx dydx	mfx dydx
+						
+t2	Treatment Positve	0.040***	0.045***	0.042***	0.090***	0.083***
+		(0.01)	(0.01)	(0.01)	(0.02)	(0.02)
+t3	Treatment Negative	0.037***	0.040***	0.039***	0.083***	0.079***
+		(0.01)	(0.01)	(0.01)	(0.02)	(0.02)
+t4	Treatment PositiveNegative	0.057***	0.061***	0.063***	0.135***	0.127***
+		(0.01)	(0.01)	(0.01)	(0.02)	(0.02)
+t5	Treatment BaselineR	0.015	0.015	0.015	0.028	0.024
+		(0.01)	(0.01)	(0.01)	(0.02)	(0.03)
+phase2	Phase 2	0.012*	0.016**	0.020**	0.039*	0.039*
+		(0.01)	(0.01)	(0.01)	(0.02)	(0.02)
+period	Round	-0.006***	-0.006***	-0.006***		-0.017***
+		(0.00)	(0.00)	(0.00)		(0.00)
+share_females_session	Female Session Share			-0.003		0.206**
+				(0.05)		(0.10)
+						
+Observations		7,530	7,530	7,530	2,510	2,510
+Behavioral Controls		No	Yes	Yes	-	-
+Demographic Controls		No	No	Yes	-	-
+Robust standard errors in parentheses						
+*** p<0.01, ** p<0.05, * p<0.1						

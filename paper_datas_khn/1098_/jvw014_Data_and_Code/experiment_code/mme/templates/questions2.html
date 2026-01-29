@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block heading %}Motivasjon {% endblock %}
+
+{% block content %}
+
+<p>
+Takk for at du har tatt deg tid til &aring; v&aelig;re med p&aring; dette eksperimentet.
+For forskningsprosjektet er det interessant &aring; vite hvordan du
+tenkte n&aring; du gjorde dine valg.
+</p>
+
+<p> Du gjorde tre valg i eksperimentet. Nedenfor f&oslash;lger en oversikt over
+disse tre valgene og ved siden av hvert valg er det en boks hvor vi ber
+deg skrive inn hvorfor du gjorde dette valget.</p>
+
+
+<form action="." method="POST">
+<table width=70%>
+<tr>
+    <td> <b>Valg 1</b> <br> {{ summary1|safe }} </td> <td> {{ form.reason1 }} </td>
+</tr>
+<tr>
+    <td> <b>Valg 2</b> <br> {{ summary2|safe }} </td> <td> {{ form.reason2 }} </td>
+</tr>
+<tr>
+    <td> <b>Valg 3</b> <br> {{ summary3|safe }} </td> <td> {{ form.reason3 }} </td>
+</tr>
+</table>
+<input type=submit value="Send">
+</form>
+
+{% endblock %}

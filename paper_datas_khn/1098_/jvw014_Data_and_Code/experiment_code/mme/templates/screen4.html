@@ -1,0 +1,83 @@
+{% extends "base.html" %}
+
+{% block heading %}
+Valg av brevalternativ
+{% endblock %}
+
+{% block content %}
+<p>
+Kryss av for det alternativet du foretrekker. N&aring;r du har valgt alternativ kan du g&aring; videre.</p>
+
+
+<form method="POST" action="{% url mme.mmex.views.level30 %}">
+<table width=60% cellspacing=30>
+{% if exitdecision %}
+<tr>
+    <td align="center" valign="center"> <input type=radio name=decision value="DEFAULT"> </td>
+    <td>
+    {% if T2optionalstar %}
+     Jeg &oslash;nsker at den jeg er koblet sammen med skal f&aring; informasjon om hvor mye vi har tjent og mitt valg.
+    Dersom du p&aring; nytt vil se brevet som vedkommende mottar
+    med dette alternativet, trykk
+    {% else %}
+    Jeg &oslash;nsker at den jeg er koblet sammen med skal f&aring; informasjon om hvor mye jeg har tjent og mitt valg.
+    Dersom du p&aring; nytt vil se brevet som vedkommende mottar
+    med dette alternativet, trykk
+    {% endif %}
+    <INPUT TYPE="BUTTON" VALUE="Se brev" ONCLICK="window.location.href='{{ letter1 }}'">
+    </td>
+
+ </tr>
+ <tr>
+    <td align="center" valign="center">  <input type=radio name=decision value="EXIT"> </td>
+    <td>
+    {% if T2optionalstar %}
+        Jeg &oslash;nsker at den jeg er koblet sammen med ikke skal f&aring; informasjon om hvor mye vi har tjent og mitt valg.
+        Dersom du p&aring; nytt vil se brevet som vedkommende mottar
+        med dette alternativet, trykk
+    {% else %}
+        Jeg &oslash;nsker at den jeg er koblet sammen med ikke skal f&aring; informasjon om hvor mye jeg har tjent og mitt valg.
+        Dersom du p&aring; nytt vil se brevet som vedkommende mottar
+        med dette alternativet, trykk
+    {% endif %}
+        <INPUT TYPE="BUTTON" VALUE="Se brev" ONCLICK="window.location.href='{{ letter2 }}'">
+    </td>
+</tr>
+{% else %}
+<tr>
+    <td align="center" valign="center">  <input type=radio name=decision value="ENTRY"></td>
+    <td>
+    {%if T2optionalstar %}
+     Jeg &oslash;nsker at den jeg er koblet sammen med skal f&aring; informasjon om hvor mye vi har tjent og mitt valg.
+    Dersom du p&aring; nytt vil se brevet som vedkommende mottar
+    med dette alternativet, trykk
+    {% else %}
+    Jeg &oslash;nsker at den jeg er koblet sammen med skal f&aring; informasjon om hvor mye jeg har tjent og mitt valg.
+    Dersom du p&aring; nytt vil se brevet som vedkommende mottar
+    med dette alternativet, trykk
+    {% endif %}
+    <INPUT TYPE="BUTTON" VALUE="Se brev" ONCLICK="window.location.href='{{ letter2 }}'">.
+    </td>
+</tr>
+<tr>
+    <td align="center" valign="center"> <input type=radio name=decision value="DEFAULT"> </td>
+    <td>
+    {% if T2optionalstar %}
+        Jeg &oslash;nsker at den jeg er koblet sammen med ikke skal f&aring; informasjon om hvor mye vi har tjent og mitt valg.
+        Dersom du p&aring; nytt vil se brevet som vedkommende mottar
+        med dette alternativet, trykk
+    {% else %}
+        Jeg &oslash;nsker at den jeg er koblet sammen med ikke skal f&aring; informasjon om hvor mye jeg har tjent og mitt valg.
+        Dersom du p&aring; nytt vil se brevet som vedkommende mottar
+        med dette alternativet, trykk
+    {% endif %}
+    <INPUT TYPE="BUTTON" VALUE="Se brev" ONCLICK="window.location.href='{{ letter1 }}'">.
+    </td>
+</tr>
+{% endif %}
+</table>
+<input type=submit value="Send beslutning">
+</form>
+
+
+{% endblock %}

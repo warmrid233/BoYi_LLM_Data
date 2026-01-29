@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block title %}Access Failed{% endblock %}
+
+{% block content %}
+<h1>Please log in</h1>
+The page you are trying to reach is protected.
+<br/>
+{% if error_message %} {{error_message }} {% endif %}
+</p>
+
+
+
+<form action="{% url mme.mmex.views.index %}" method="get">
+<input type="submit" value="Home" />
+</form>
+
+{% endblock %}

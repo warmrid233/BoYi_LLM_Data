@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block heading %}Vi vil gjerne at du svarer p&aring; disse sp&oslash;rsm&aring;lene:{% endblock %}
+
+{% block content %}
+
+{{ summary|safe }}
+
+
+<form action="." method="POST">
+<table>
+{{ form.as_table }}
+</table>
+<br>
+<input type=submit value="Send">
+</form>
+
+{% endblock %}

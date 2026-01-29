@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block heading  %} Adresse  {% endblock %}
+
+{% block content %}
+
+
+<p>
+Vi vil gjerne sende deg mer informasjon om eksperimentet i posten,
+derfor ber vi deg fylle inn adressen din i skjemaet nedenfor.
+</p>
+
+<form action="." method="POST">
+<table>
+{{ form.as_table }}
+</table>
+<br>
+<input type=submit value="Send">
+</form>
+
+{% endblock %}

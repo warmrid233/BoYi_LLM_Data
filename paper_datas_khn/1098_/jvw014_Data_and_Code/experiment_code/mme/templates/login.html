@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block title %} Login (not for users) {% endblock %}
+
+{% block content %} 
+
+<h1> Enter codes to register computers</h1>
+<p> The session code is a 5-character upper-case session code distributed 
+ahead of the experiment to assistants (not experimental subjects). </p>
+<p> The computer id is a unique number fixed to each work station. </p>
+
+<form action="." method="POST">
+<table>
+{{ form.as_table }}
+</table>
+<br>
+<input type=submit>
+</form>
+
+
+{% endblock %}

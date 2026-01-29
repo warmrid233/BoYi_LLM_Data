@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+
+{% block heading %}
+Mulighet til &aring; endre informasjon
+{% endblock %}
+
+
+{% block content %}
+<p>
+{% if T1T3nostar %}
+ Du f&aring;r n&aring; mulighet til &aring; endre innholdet i brevet som den du er koblet sammen med vil motta etter
+ eksperimentet. Dersom du &oslash;nsker det, vil brevet kun inneholde generell informasjon om at
+ vedkommende er trukket ut til &aring; motta penger fra et &oslash;konomisk eksperiment ved NHH og
+ ingen informasjon om at det er en spesifikk person (dvs. deg) som har tatt dette valget
+ etter &aring; ha tjent penger i eksperimentet.
+{% endif %}
+{% if T1T3star %}
+Du f&aring;r n&aring; mulighet til &aring; endre innholdet i brevet som den du er koblet sammen med vil motta
+etter eksperimentet. Dersom du &oslash;nsker det, vil brevet ogs&aring; inneholde informasjon om at en spesifikk
+person (dvs. deg) har tjent {{ situation.kr1 }} kroner i dette eksperimentet og valgt hvor mye vedkommende skal f&aring;.
+{% endif %}
+
+{% ifequal situation.treatment "T2" %}
+Du f&aring;r n&aring; mulighet til &aring; endre innholdet i brevet som den du er koblet sammen med vil motta etter
+eksperimentet. Dersom du &oslash;nsker det, vil brevet kun inneholde generell informasjon om at
+vedkommende er trukket ut til &aring; motta penger fra et &oslash;konomisk eksperiment ved NHH og
+ingen informasjon om at det er en spesifikk person (dvs. deg) som har tatt dette valget
+og at dere begge har tjent penger i eksperimentet.
+{% endifequal %}
+
+{% ifequal situation.treatment "T2*" %}
+Du f&aring;r n&aring; mulighet til &aring; endre innholdet i brevet som den du er koblet sammen med vil motta etter
+eksperimentet. Dersom du &oslash;nsker det, vil brevet ogs&aring; inneholde informasjon om at
+b&aring;de du og han hver har tjent {{ situation.kr1 }} kroner p&aring; oppgaven dere utf&oslash;rte, og at du har blitt
+bedt om &aring; bestemme hvor mye av de pengene dere har tjent til sammen han skal f&aring;.
+{% endifequal %}
+
+</p>
+
+<p>
+{% if star %}
+Dersom du velger &aring; endre innholdet i brevet, vil du ogs&aring; f&aring; muligheten til &aring; endre bel&oslash;pet du sender til den andre.
+Dersom du i dette tilfellet velger ikke &aring; sende noe til den andre, vil vedkommende likevel motta brev om
+eksperimentet og ditt valg.
+{% else %}
+Dersom du velger &aring; endre innholdet i brevet, vil du ogs&aring; f&aring; muligheten til &aring; endre bel&oslash;pet du sender til den
+andre. Dersom du i dette tilfellet velger ikke &aring; sende noe til den andre, vil vedkommende heller
+ikke motta brev om eksperimentet.
+{% endif %}
+</p>
+
+<p> Du f&aring;r n&aring; se denne varianten av brevet:</p>
+
+<FORM>
+<INPUT TYPE="BUTTON" VALUE="Se p&aring; brev" ONCLICK="window.location.href='{{ letter2 }}'">
+</FORM>
+
+{% if button %}
+<form method="POST" action="{% url mme.mmex.views.level30 %}">
+<input type=submit value="G&aring; videre">
+<input type=hidden name=goto50 value="true">
+</form>
+{% endif %}
+
+
+
+{% endblock %}

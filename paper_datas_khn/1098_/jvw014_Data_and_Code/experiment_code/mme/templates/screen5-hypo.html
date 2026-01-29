@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block heading %}
+Valg i en hypotetisk situasjon
+{% endblock %}
+
+{% block content %}
+
+<p>
+Du valgte ikke &aring; endre innholdet i brevet. Tenk deg n&aring; at du hadde v&aelig;rt i en situasjon hvor
+den andre versjonen av brevet hadde blitt sendt. Dersom du vil se denne versjonen av brevet p&aring; nytt,
+trykk her, <FORM>
+<INPUT TYPE="BUTTON" VALUE="Se brev" ONCLICK="window.location.href='{{ letter2 }}'">
+</FORM>
+</p>
+
+<p>Hvor mye av de {{ sumearnings }} kronene dere tjente til sammen ville du valgt &aring; gi
+i denne tenkte situasjonen?
+</p>
+
+<p> Velg mellom f&oslash;lgende to alternativer:</p>
+
+
+{% if error %}
+<p> <b><font color=red>Oppgi bel&oslash;p i hele kroner.</font></b> </p>
+{% endif %}
+
+
+<form method="POST" action="{% url mme.mmex.views.level30 %}">
+<table>
+<table width=60%>
+<tr>
+    <td align="center" valign="center"> <input type=radio name=change value="NO"> </td>
+    <td> Beholdt opprinnelig fordeling og gitt den andre {{ situation.belop1 }} kroner.</td>
+</tr>
+<tr>
+    <td align="center" valign="center"> <input type=radio name=change value="YES"> </td>
+    <td> Endret fordeling og gitt den andre {{form.other }} kroner.
+ </tr>
+</table>
+<input type=submit value="Send beslutning">
+</form>
+
+
+{% endblock %}

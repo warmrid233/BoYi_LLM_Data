@@ -1,0 +1,106 @@
+{
+    "links": [
+        {
+            "rel": "describedby", 
+            "href": "https://yoda.uu.nl/schemas/default-3/metadata.json"
+        }
+    ], 
+    "Discipline": [
+        "Social Sciences - Sociology (5.4)"
+    ], 
+    "Language": "en - English", 
+    "Covered_Geolocation_Place": [
+        "ELSE laboratory Utrecht"
+    ], 
+    "Keyword": [
+        "Cooperation", 
+        "contracts", 
+        "repeated games", 
+        "investments"
+    ], 
+    "Related_Resource": [
+        {}, 
+        {
+            "Persistent_Identifier": {
+                "Identifier_Scheme": "DOI", 
+                "Identifier": "https://doi.org/10.24416/UU01-IF8SE0"
+            }, 
+            "Relation_Type": "IsNewVersionOf", 
+            "Title": "Cooperation Through Rational Investments in Social Organization"
+        }
+    ], 
+    "Retention_Period": 10, 
+    "Data_Type": "Dataset", 
+    "Funding_Reference": [
+        {}
+    ], 
+    "Creator": [
+        {
+            "Name": {
+                "Given_Name": "Anna", 
+                "Family_Name": "Sokolova"
+            }, 
+            "Affiliation": [
+                {
+                    "Affiliation_Name": "Utrecht University", 
+                    "Affiliation_Identifier": "https://ror.org/04pp8hn57"
+                }
+            ], 
+            "Person_Identifier": [
+                {
+                    "Name_Identifier_Scheme": "ORCID", 
+                    "Name_Identifier": "https://orcid.org/0000-0003-1981-0620"
+                }
+            ]
+        }
+    ], 
+    "Contributor": [
+        {
+            "Affiliation": [
+                {
+                    "Affiliation_Name": "Utrecht University", 
+                    "Affiliation_Identifier": "https://ror.org/04pp8hn57"
+                }
+            ], 
+            "Person_Identifier": [
+                {
+                    "Name_Identifier_Scheme": "ORCID", 
+                    "Name_Identifier": "https://orcid.org/0000-0002-4483-7238"
+                }
+            ], 
+            "Name": {
+                "Given_Name": "Vincent", 
+                "Family_Name": "Buskens"
+            }, 
+            "Contributor_Type": "Researcher"
+        }, 
+        {
+            "Affiliation": [
+                {
+                    "Affiliation_Name": "Utrecht University", 
+                    "Affiliation_Identifier": "https://ror.org/04pp8hn57"
+                }
+            ], 
+            "Person_Identifier": [
+                {
+                    "Name_Identifier_Scheme": "ORCID", 
+                    "Name_Identifier": "https://orcid.org/0000-0001-5425-336X"
+                }
+            ], 
+            "Name": {
+                "Given_Name": "Werner", 
+                "Family_Name": "Raub"
+            }, 
+            "Contributor_Type": "Researcher"
+        }
+    ], 
+    "Data_Access_Restriction": "Open - freely retrievable", 
+    "License": "Creative Commons Attribution 4.0 International Public License", 
+    "Title": "Cooperation Through Rational Investments in Social Organization", 
+    "Description": "Repeated interactions and contractual agreements are examples of different ways of organizing interactions in social and economic life and can foster cooperation in social dilemmas. Thus, when involved in social dilemmas, actors have incentives to form long-term relations with repeated interactions or to enter into contractual agreements. We analyze theoretically and experimentally the effects of repeated interactions and contractual agreements as well as their endogenous emergence. In line with earlier evidence, both ways of organizing interactions are found to foster cooperation. Our key contribution is twofold. First, with respect to theory, we derive conditions for investments in social organization. Second, empirically, we find that such investments are more likely when the costs are below a threshold that follows from a parsimonious game-theoretic model assuming equilibrium behavior, self-regarding preferences, and complete information. We find less experimental support for two additional conjectures on investments that are based on reasoning more in line with behavioral game theory.", 
+    "Collected": {
+        "Start_Date": "2019-12-01", 
+        "End_Date": "2020-02-11"
+    }, 
+    "Data_Classification": "Public"
+}

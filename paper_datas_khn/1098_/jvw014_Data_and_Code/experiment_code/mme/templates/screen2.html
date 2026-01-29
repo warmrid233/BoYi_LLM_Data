@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+
+{% block heading %}
+Valg av fordeling
+{% endblock %}
+
+
+{% block content %}
+
+<p>
+{% if T1optionalstar %}
+{# For treatments T1, T1* #}
+Du er, som vi allerede har orientert deg om, koblet sammen med en person som er tilfeldig trukket ut blant
+studentene ved NHH og som ikke har deltatt p&aring; noen av sesjonene i dette eksperimentet.
+{% endif %}
+
+{% if T2optionalstar %}
+Du er, som vi allerede har orientert deg om, tilfeldig blitt koblet sammen med en annen deltaker i dette
+eksperimentet som ogs&aring; er student ved NHH, men sitter i et annet rom.
+{% endif %}
+
+{% if T3optionalstar %}
+Du er, som vi allerede har orientert deg om, koblet sammen med en person som er tilfeldig trukket ut blant
+l&aring;ntakerne i mikrokredittorganisasjonen PRIDE TANZANIA.
+PRIDE TANZANIA tilbyr l&aring;n til fattige mennesker for &aring; styrke deres inntektsgrunnlag
+og redusere arbeidsledigheten i Tanzania.
+{% endif %}
+
+<p>
+Denne personen vil etter eksperimentet motta brevet du nettopp har sett. Dersom du vil se brevet p&aring; nytt, klikk her
+<FORM>
+<INPUT TYPE="BUTTON" VALUE="Se p&aring; brev" ONCLICK="window.location.href='{{ letter }}'">
+</FORM>
+</p>
+
+<p>
+{% if T2optionalstar %}
+Du og den andre deltakeren har tjent til sammen {{ sumearnings }} kroner p&aring; oppgaven dere har utf&oslash;rt.
+{% else %}
+Du har tjent {{ situation.kr1 }} kroner p&aring; arbeidet du har utf&oslash;rt.
+{% endif %}
+</p>
+
+<p>Skriv inn hvor mye av dette bel&oslash;pet du &oslash;nsker &aring; gi til den andre deltakeren:</p>
+
+{% if error %}
+<p> <b><font color=red>Oppgi bel&oslash;p i hele kroner.</font></b> </p>
+{% endif %}
+
+
+<form method="POST" action="{% url mme.mmex.views.level30 %}">
+<table>
+{{ form.as_table }}
+</table>
+<input type=submit value="Send beslutning">
+
+</form>
+
+
+
+{% endblock %}

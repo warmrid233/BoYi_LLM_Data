@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1> Vote on distribution</h1>
+
+<script language="JavaScript">
+var ticks=10*{{ seconds }};
+
+function uncheckall() {
+	var ins = document.getElementsByTagName('input');
+	for (var i=0; i<ins.length; i++) {
+		if (ins[i].getAttribute('type')=='checkbox') {
+			ins[i].checked=false;
+		}
+	}
+}
+</script>
+
+
+<p> You are now asked to vote on how to distribute earnings.</p>
+{% if not priceshown %}
+<p> Recall that the computer randomly assigns a wage of {{ highwage }} to
+two of you and {{ lowwage }} to one of you.</p>
+{% endif %}
+
+<p> The table summarizes the production phase.
+
+{% if costly %}
+	<p> If you choose an equal distribution, the total income produced
+	will be reduced by {{ reduction }} percent. </p>
+{% endif %}
+
+	<table border=all>
+	<tr> <th> </th> <th> Met work <br> requirement? </th> <th> Wage </th> <th>Earnings <br> from production</th> </tr>
+	<tr> <td> You:                 </td> <td> {{ prod1 }} </td> <td> {{ distsit.price1 }} </td> <td> {{ value1 }} </td> </tr>
+	<tr> <td> other participant 1: </td> <td> {{ prod2 }} </td> <td> {{ distsit.price2 }} </td> <td> {{ value2 }} </td> </tr>
+	<tr> <td> other participant 2: </td> <td> {{ prod3 }} </td> <td> {{ distsit.price3 }} </td> <td> {{ value3 }} </td> </tr>
+	<tr> <td> <b> Total </b>    </td> <td>             </td> <td>                      </td> <td> <b> {{ totalvalue }} </b> </td> </tr>
+	</table>
+
+	<p> Please vote for one of the following:</p>
+<form name=distform action="." method=POST
+	onsubmit="return true;">
+<p> Seconds left: <input type=textfield name=timeleft size=5 value= {{seconds}} >
+<br> {{ form.as_table }}
+<br><input type=submit value="Submit">
+
+</form>
+
+<script language="JavaScript">
+function subtractTicks() {
+	ticks = ticks - 1
+	document.distform.timeleft.value = ticks/10
+	if (ticks<=0) {
+		document.distform.target="_self";
+		clearInterval(clockid);
+		document.distform.submit();
+	}
+}
+var clockid=setInterval("subtractTicks()", 100)
+</script>
+
+
+<script> uncheckall(); </script>
+{% endblock %}

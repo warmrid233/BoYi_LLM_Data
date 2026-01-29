@@ -1,0 +1,18 @@
+		(1)	(2)	(3)	(4)	(5)
+		Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision
+VARIABLES	LABELS	mfx dydx	mfx dydx	mfx dydx	mfx dydx	mfx dydx
+						
+female	Female	0.113***	0.035	0.080**	0.023	0.053
+		(0.03)	(0.03)	(0.04)	(0.04)	(0.03)
+period	Round	-0.011***	-0.001	-0.005*	-0.004	-0.007**
+		(0.00)	(0.00)	(0.00)	(0.00)	(0.00)
+phase2	Phase 2	0.050	0.005	0.024	0.017	
+		(0.04)	(0.04)	(0.04)	(0.04)	
+						
+Observations		1,500	1,500	1,500	1,500	1,530
+Treatment		T1	T2	T3	T4	T5
+Behavioral Controls		Yes	Yes	Yes	Yes	Yes
+Demographic Controls		Yes	Yes	Yes	Yes	Yes
+Session FE		No	No	No	No	No
+Robust standard errors in parentheses						
+*** p<0.01, ** p<0.05, * p<0.1						

@@ -1,0 +1,22 @@
+CODEBOOK FOR "Generous with individuals and selfish to the masses"
+Carlos Alos-Ferrer, Jaume Garcia-Segarra, and Alexander Ritschel
+
+ID		- Unique Subject ID, 1 to 640.
+Treatment	- Experimental treatment, 0= Ex Ante, 1= Ex Post.
+Robber		- Role dummy. 1 if robber, 0 if victim.
+Female  	- Gender dummy. 1 if female, 0 if male.
+Age 		- Age of the participant (in years).
+Econ    	- Field of studies dummy. 1 if economics-related, 0 if not.
+RobbersChoice	- Robber's decision. Can take values 0, 10, 33, 50.
+DecisionTime	- Decision time for the robber's decision (in seconds).
+DGSent		- Decision as sender in the Dictator Game (0 to 10).
+UGSent		- Decision as sender in the Ultimatum Game (0 to 10).
+UGMTA		- Minimal Threshold of Acceptance as receiver in the Ultimatum Game (0 to 10).
+TGSent		- Decision as sender in the Trust Game (0 to 10).
+TGReturn	- Average fraction returned in the Trust Game over all possible positive transfers (0 to 1).
+Donation	- Percentage of earnings donated to charity (0 to 100).
+CharityValue	- Evaluation of the charity, from 1(=Very Bad) to 10(=Very Good).
+Expectation	- Average (elicited) percentage that subject thought would be taken from the victims.
+SelectedRobber 	- Dummy indicating if that subject was selected as robber (1= yes, 0=no).
+PayoffBeforeRob - Euros earned before robbing decision was implemented (not including show-up fee).
+PayoffAfterRob 	- Euros earned after the robbing decision was implemented (but before donation; show-up fee not included).

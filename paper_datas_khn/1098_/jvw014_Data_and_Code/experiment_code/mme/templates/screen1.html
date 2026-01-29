@@ -1,0 +1,123 @@
+{% extends "base.html" %}
+
+{% block heading %}
+    Introduksjon til andre del
+{% endblock %}
+
+
+{% block content %}
+
+<p> Du klarte &aring; n&aring; produksjonsm&aring;let i f&oslash;rste del av eksperimentet
+og for dette har du tjent {{ situation.kr1 }} kroner.
+</p>
+
+<P>
+{% if T1optionalstar %}
+    Du har n&aring; blitt koblet sammen med en person som er tilfeldig trukket ut blant
+    studentene ved NHH som ikke har meldt seg p&aring; dette eksperimentet og derfor
+    heller ikke har deltatt p&aring; noen av sesjonene.
+{% endif %}
+
+{% if T2optionalstar %}
+    Du har tilfeldig blitt koblet sammen med en annen deltaker i dette eksperimentet som ogs&aring;
+    er student ved NHH, men sitter i et annet rom.
+    Denne personen har ogs&aring; tjent {{ situation.kr1 }} kroner p&aring; &aring; utf&oslash;re
+    den samme oppgaven som du har utf&oslash;rt, men han eller hun har ikke f&aring;tt beskjed om dette.
+{% endif %}
+
+
+{% if T3optionalstar %}
+    Du har n&aring; blitt koblet sammen med en person som er tilfeldig trukket ut blant l&aring;ntakerne
+    i mikrokredittorganisasjonen PRIDE TANZANIA i Dar es Salaam i Tanzania.
+    PRIDE TANZANIA tilbyr l&aring;n til fattige mennesker for &aring; styrke deres inntektsgrunnlag
+    og redusere arbeidsledigheten i Tanzania.
+{% endif %}
+
+
+<p> Denne personen vil ikke blir koblet sammen med andre deltakere enn deg.
+Du vil ikke f&aring; vite hvem denne personen er og denne personen vil
+ikke f&aring; vite hvem du er.
+</p>
+
+<p>
+{% if T2optionalstar %}
+    Du vil bli bedt om &aring; bestemme hvordan du &oslash;nsker &aring; dele det
+    bel&oslash;pet du og den andre deltakeren har tjent til sammen, {{ sumearnings }} kroner,
+    mellom deg selv og ham (eller henne).
+{% else %}
+    Du vil bli bedt om &aring; bestemme hvordan du &oslash;nsker &aring; dele det bel&oslash;pet
+    du har tjent mellom deg selv og den personen du har blitt koblet sammen med.
+{% endif %}
+
+{% if T1T3nostar %}
+    Etter at eksperimentet er avsluttet vil den personen du har blitt koblet sammen
+    med bli tilsendt et brev. I dette brevet vil vedkommende f&aring; opplyst at han (eller hun)
+    tilfeldig har blitt trukket ut til &aring; v&aelig;re mottaker i et &oslash;konomisk eksperiment.
+    Personen vil ogs&aring; bli informert om at en deltaker i eksperimentet, dvs. deg,
+    har tjent {{ situation.kr1 }} kroner p&aring; &aring; utf&oslash;re en oppgave og at denne deltakeren har
+    blitt bedt om &aring; bestemme hvor mye av disse pengene han skal f&aring;. Pengene du velger
+    &aring; gi vil bli lagt ved brevet. Dersom du velger ikke &aring; gi noe til denne personen,
+    vil brevet sendes uten penger.
+{% endif %}
+
+{% if T1T3star %}
+    Etter at eksperimentet er avsluttet vil den personen du har blitt koblet sammen med
+    bli tilsendt et brev. Brevet vil kun inneholde generell informasjon om at vedkommende
+    er trukket ut til &aring; motta penger fra et &oslash;konomisk eksperiment ved NHH og ingen
+    informasjon om at det er en spesifikk person (dvs. deg) som har tatt dette valget
+    etter &aring; ha tjent penger i eksperimentet. Dersom du velger ikke &aring; gi noe til denne
+    personen, vil brevet ikke bli sendt.
+{% endif %}
+
+{% ifequal situation.treatment "T2" %}
+    Etter at eksperimentet er avsluttet vil den personen du har blitt koblet sammen med
+    bli tilsendt et brev. I dette brevet vil vedkommende f&aring; opplyst at han (eller hun)
+    tilfeldig har blitt trukket ut til &aring; v&aelig;re mottaker i dette &oslash;konomiske eksperimentet.
+    Personen vil ogs&aring; f&aring; beskjed om at han har blitt koblet sammen med en deltaker i
+    eksperimentet (dvs. deg), at b&aring;de du og han hver har tjent {{ situation.kr1}} kroner p&aring; oppgaven
+    dere utf&oslash;rte, og at du har blitt bedt om &aring; bestemme hvor mye av de pengene dere har
+    tjent til sammen han skal f&aring;. Pengene du velger &aring; gi vil bli lagt ved brevet.
+    Dersom du velger ikke &aring; gi noe til denne personen, vil brevet sendes uten penger.
+{% endifequal %}
+
+{% ifequal situation.treatment "T2*" %}
+    Etter at eksperimentet er avsluttet vil den personen du har blitt koblet sammen
+    med bli tilsendt et brev. Brevet vil kun inneholde generell informasjon om at
+    vedkommende er trukket ut til &aring; motta penger fra et &oslash;konomisk eksperiment ved
+    NHH og ingen informasjon om at han ogs&aring; hadde tjent penger p&aring; denne oppgaven og
+    at det er en spesifikk person (dvs. deg) som har tatt valget om hvor mye penger han
+    skal f&aring;. Dersom du velger ikke &aring; gi noe til denne personen, vil brevet ikke bli sendt.
+{% endifequal %}
+
+<p>
+Din utbetaling fra eksperimentet blir din oppm&oslash;tekompensasjon pluss det bel&oslash;pet du beholder for deg selv.
+N&aring;r eksperimentet er ferdig vil du p&aring; skjermen f&aring; oppgitt en utbetalingskode, som du skal skrive ned.
+N&aring;r du forlater lokalet vil du oppgi koden og motta en konvolutt med dine penger. For &aring; sikre anonymitet
+vil konvoluttene v&aelig;re forberedt av personer som ikke befinner seg i rommet n&aring;r konvoluttene deles ut.
+Ingen av oss som er i rommet vil derfor vite hvilket bel&oslash;p som er i konvolutten du mottar.</p>
+
+<p>
+
+P&aring; utbetalingsskjemaet finner du kontaktinformasjon til en person i administrasjonen p&aring; NHH.
+Ved &aring; oppgi din utbetalingskode til denne personen vil du, om &oslash;nskelig, f&aring; tilsendt
+en anonymisert kopi av brevet som ble sendt til mottakeren og en kopi av bilaget fra NHHs regnskap som bekrefter at
+bel&oslash;pet du bestemte deg for &aring; gi faktisk ble sendt til mottakeren.
+</p>
+
+<p>
+F&oslash;r du g&aring;r videre f&aring;r du anledning til &aring; se p&aring; det brevet som vil bli sendt til mottakeren.
+N&aring;r du har sett p&aring; dette brevet vil du f&aring; anledning til &aring; g&aring; videre.
+</p>
+
+{% if button %}
+    <form method="POST" action="{% url mme.mmex.views.level30 %}">
+    <input type=submit value="G&aring; videre">
+    <input type=hidden name=goto20 value="true">
+    </form>
+{% endif %}
+
+<FORM>
+<INPUT TYPE="BUTTON" VALUE="Se p&aring; brev" ONCLICK="window.location.href='{{ letter }}'">
+</FORM>
+
+{% endblock %}

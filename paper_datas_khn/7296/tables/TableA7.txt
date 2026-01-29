@@ -1,0 +1,17 @@
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)	(11)	(12)	(13)	(14)	(15)
+		Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision
+VARIABLES	LABELS	mfx dydx	mfx dydx	mfx dydx	mfx dydx	mfx dydx	mfx dydx	mfx dydx	mfx dydx	mfx dydx	mfx dydx	mfx dydx	mfx dydx	mfx dydx	mfx dydx	mfx dydx
+																
+female	Female	0.104**	0.100**	0.116***	0.034	0.035	0.022	0.081*	0.077*	0.058	0.079*	0.080*	0.068	0.052	0.056*	0.059*
+		(0.05)	(0.04)	(0.04)	(0.04)	(0.05)	(0.05)	(0.05)	(0.04)	(0.05)	(0.04)	(0.04)	(0.04)	(0.03)	(0.03)	(0.03)
+period	Round	-0.012**	-0.012**	-0.013**	-0.003	-0.003	-0.003	-0.008*	-0.008*	-0.009**	-0.004	-0.004	-0.004	-0.007**	-0.007**	-0.007**
+		(0.01)	(0.01)	(0.01)	(0.00)	(0.00)	(0.00)	(0.00)	(0.00)	(0.00)	(0.00)	(0.00)	(0.00)	(0.00)	(0.00)	(0.00)
+share_females_session	Female Session Share			-0.235			-0.078			-0.300			0.546			-0.226
+				(0.39)			(0.33)			(0.41)			(0.41)			(0.23)
+																
+Observations		750	750	750	750	750	730	900	900	890	750	750	750	1,530	1,530	1,530
+Treatment		T1	T1	T1	T2	T2	T2	T3	T3	T3	T4	T4	T4	T5	T5	T5
+Behavioral Controls		No	Yes	Yes	No	Yes	Yes	No	Yes	Yes	No	Yes	Yes	No	Yes	Yes
+Demographic Controls		No	No	Yes	No	No	Yes	No	No	Yes	No	No	Yes	No	No	Yes
+Robust standard errors in parentheses																
+*** p<0.01, ** p<0.05, * p<0.1																

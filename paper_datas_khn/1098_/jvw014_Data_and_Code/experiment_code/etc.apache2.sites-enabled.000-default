@@ -1,0 +1,32 @@
+# This is the apache 2 configuration file that was used to run the experiment. 
+# The paths in here obviously need to be changed in order to run from a different 
+# computer.
+<VirtualHost *:80>
+	ServerAdmin webmaster@localhost
+
+	Alias /media/ /home/sameos/Documents/mmexit/ekspkode/mme/pictures/
+
+	<Directory /home/sameos/Documents/mmexit/ekspkode/mme/pictures>
+		Order deny,allow
+		Allow from all
+	</Directory>
+	WSGIScriptAlias / /home/sameos/Documents/mmexit/ekspkode/mme/django.wsgi
+
+	ErrorLog ${APACHE_LOG_DIR}/error.log
+
+	# Possible values include: debug, info, notice, warn, error, crit,
+	# alert, emerg.
+	LogLevel warn
+
+	CustomLog ${APACHE_LOG_DIR}/access.log combined
+
+    Alias /doc/ "/usr/share/doc/"
+    <Directory "/usr/share/doc/">
+        Options Indexes MultiViews FollowSymLinks
+        AllowOverride None
+        Order deny,allow
+        Deny from all
+        Allow from 127.0.0.0/255.0.0.0 ::1/128
+    </Directory>
+
+</VirtualHost>

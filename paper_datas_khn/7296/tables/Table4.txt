@@ -1,0 +1,26 @@
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)
+		Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision	Main Rounds: Investment Decision
+VARIABLES	LABELS	mfx dydx	mfx dydx	mfx dydx	mfx dydx	mfx dydx	mfx dydx	mfx dydx	mfx dydx
+									
+t2_t1	Treatment Positve	0.004				0.075***			
+		(0.03)				(0.03)			
+period	Round	-0.012***	-0.012***	-0.011***	-0.017***	-0.001	-0.005*	-0.004	-0.003
+		(0.00)	(0.00)	(0.00)	(0.00)	(0.00)	(0.00)	(0.00)	(0.00)
+phase2	Phase 2	0.056*	0.029	0.082**		0.040	0.031	0.010	
+		(0.03)	(0.03)	(0.04)		(0.03)	(0.02)	(0.04)	
+share_females_session	Female Session Share	0.350***	0.154	0.508***	0.167	-0.256**	-0.211**	-0.291**	-0.214*
+		(0.13)	(0.15)	(0.13)	(0.15)	(0.12)	(0.11)	(0.13)	(0.13)
+t3_t1	Treatment Negative		0.025				0.050**		
+			(0.04)				(0.02)		
+t4_t1	Treatment PositiveNegative			0.002				0.119***	
+				(0.04)				(0.04)	
+t5_t1	Treatment BaselineR				-0.013				0.040
+					(0.03)				(0.03)
+									
+Observations		1,400	1,380	1,430	1,400	1,590	1,610	1,560	1,630
+Behavioral Controls		Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Demographic Controls		Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Cluster		Session	Session	Session	Session	Session	Session	Session	Session
+Sample		Females	Females	Females	Females	Males	Males	Males	Males
+Robust standard errors in parentheses									
+*** p<0.01, ** p<0.05, * p<0.1									

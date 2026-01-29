@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %} Administrative actions in MMEXIT {% endblock %}
+
+{% block content %} 
+
+<h1>Administrative actions in MMEXIT </h1>
+
+<ul>
+    <li> <a href={% url mmex.views.create_session %}> Create a new session</a>
+    <li> <a href={% url mmex.views.close_session %}> Close the session</a>
+</ul>
+
+<p> Some other actions:
+<ul>
+<li> <a href={% url mmex.views.showsecretcodes %}>Print list of secret codes for this session</a></li>
+</ul>
+
+{% endblock %}

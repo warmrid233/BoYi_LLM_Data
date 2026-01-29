@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h3> Trykk p&aring; knappen under bildet for &aring; g&aring; tilbake. </h3>
+
+<img src={{ letter }} alt="Letter to be sent">
+
+<br>
+<form method=POST action = {% url mmex.views.backfromletter %} >
+<input type=hidden name=change value={{ lettern }}>
+<input type=submit value="G&aring; tilbake">
+</form>
+{% endblock %}

@@ -1,0 +1,28 @@
+{% extends "status.html" %}
+
+
+{% block content %}
+
+<h4> level=30 </h4>
+
+<table border>
+<tr><th> Room </th> <th> Count </th> </tr>
+{% for room in rooms %}
+<tr> <td> {{ room.name }} </td> <td align="center"> {{ room.count }} </td>  </tr>
+{% endfor %}
+</table>
+<br>
+<br>
+
+
+{% if payments %}
+<h3> Room = {{ roomname }}</h3>
+    <table border>
+    <th> Time-stamp</th> <th> Payment-code </th> <th> Amount in NOK </th>
+{% endif %}
+    {% for payment in payments %}
+        <tr> <td> {{ payment.ts }} </td> <td align="center"> {{ payment.paymentcode }} </td> <td align="center"> {{ payment.total }} </td> </tr>
+    {% endfor %}
+    </table>
+
+{% endblock %}

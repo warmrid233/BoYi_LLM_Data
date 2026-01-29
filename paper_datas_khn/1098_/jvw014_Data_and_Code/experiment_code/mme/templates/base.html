@@ -1,0 +1,29 @@
+<html>
+
+
+<head>
+<style>
+p {text-align: justify; width: 40em}
+ol {max-width: 30em}
+body {background-color: white}
+</style>
+
+    <title>{% block title %} {% endblock %}</title>
+    {% block meta %} {% endblock %}
+</head>
+
+<body>
+    <h1>{% block heading %} {% endblock %}</h1>
+
+    {% block content %}
+
+
+    {% endblock %}
+
+
+    <hr>
+    {% block footer %}{% endblock %}
+    <p><em>Copyright Department of Economics, Norwegian School of Economics and Business Administration.</em>
+
+</body>
+</html>

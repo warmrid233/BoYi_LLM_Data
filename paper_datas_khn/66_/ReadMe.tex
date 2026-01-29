@@ -1,0 +1,96 @@
+\documentclass[a4paper,twoside,11.5pt,reqno]{article}
+
+\usepackage{amssymb}
+\usepackage{ragged2e}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{natbib}
+\usepackage{setspace}
+\usepackage{authblk}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{float}
+\usepackage{color}
+\usepackage{soul}
+\usepackage[flushleft]{threeparttable}
+%\usepackage{subfig}
+
+\newtheorem{theorem*}{Theorem}
+\newtheorem{Prop}{Proposition}
+
+\renewcommand{\vec}[1]{\mathbf{#1}}
+
+
+%Page set up space
+\setlength{\oddsidemargin}{-0.125in}
+\setlength{\evensidemargin}{-0.125in}
+\setlength{\topmargin}{-0.25in}
+\setlength{\textwidth}{6.5in}
+\setlength{\textheight}{9.25in}
+\setlength{\parskip}{\medskipamount}
+\setlength{\parindent}{0pt}
+
+\setstretch{1.25}
+
+
+\begin{document}
+
+\title{Supplementary Material for Replication: Focality and Asymmetry in Multi-battle Contests}
+\author[1]{Subhasish M. Chowdhury}
+\author[2]{Dan Kovenock}
+\author[3]{\\David Rojo Arjona}
+\author[4]{Nathaniel T. Wilcox}
+
+%Affiliation
+\affil[1]{\scriptsize Department of Economics, University of Bath, Bath BA2 7AY, UK.}
+\affil[2]{\scriptsize Economic Science Institute, Chapman University, One University Drive, Orange, CA 92866, USA.}
+\affil[3]{\scriptsize Smith Institute, Chapman University, One University Drive, Orange, CA 92866, USA.}
+\affil[4]{\scriptsize Department of Economics, Appalachian State University, Boone, NC 28608, USA.}
+
+\date{\today}
+
+\maketitle
+
+\section{Description of Replication Package}
+This replication package includes the following files:
+
+\begin{itemize}
+\item A copy of the IRB approval for the research project to which our experiment is associated: IRBApproval.pdf.
+\item A copy of the experimental design: Experimental Design.pdf.
+\item A copy of the experimental instructions: Experimental Instructions.pdf.
+\item The raw experimental dataset in non-proprietary format: RawData.csv.
+\item The raw experimental dataset in Stata format: RawData.dta.
+\item Do file for replication of the analysis in the main paper, and Appendix: Results.do (Stata 16.1 used).
+\item Mathematica files for best-response and $\epsilon$-equilibrium Figures: BestResponses.nb and Epsilon.nb (Mathematica 10.0 used)
+\end{itemize}
+
+\section{Description of the raw experimental dataset}
+List and description of the variables:
+\begin{itemize}
+\item treatment: Unique Treatment Identifier $1 =IS$; $2 =IF$; $3 =IV$; $4 =IL$; $5 =AS$; $6 = AF$; $7 =AV$.
+\item session: Unique Session Identifier.
+\item id: Unique Subject Identifier in Experiment.
+\item period: Period.
+\item player: Unique Subject Identifier in Session.
+\item partner: Opponent's player number.
+\item tokens: Budget.
+\item partnertokens: Opponent's budget.
+\item decisionlengthms: Decision Time Length (ms).
+\item allocation$X$: Allocation to battlefield $X$, where $X=1$ is the target box. 
+\item partnerallocation$X$: Opponent's allocation to battlefield $X$.
+\item earnings$X$: Realized earnings in battlefield $X$.
+\item battle$X$value: Value of Battlefield $X$.
+\item battle$X$location: Location of Battlefield $X$, where values go from $1 =$ ``Far Left'' to $4 =$ ``Far Right''.
+\item battle$X$color: Color of Battlefield $X$, where $0 =$ ``White'' and $1 =$ ``Black''.
+\item win$X$: Indicator variable $1 =$ ``Victory in Battlefield $X$'' and $0 =$ ``Otherwise''.
+\end{itemize}
+
+\section{Description of the do file}
+The Stata do file ``Results.do'' contains the code to replicate the figures and analysis of the experimental data. Figures are saved on the working directory and Tables are displayed on the screen in a matrix named after the corresponding Table number (e.g., matrix `Table3' corresponds to Table 3 in the main text). The running time for the whole code is few seconds in Stata 16.1.
+
+\section{Description of the Mathematica files}
+The Mathematica file ``BestResponses.nb'' contains the code to replicate Figure 2 and Figure A1. The Mathematica file ``Epsilon.nb'' contains the code to replicate Figure D1.
+\end{document}

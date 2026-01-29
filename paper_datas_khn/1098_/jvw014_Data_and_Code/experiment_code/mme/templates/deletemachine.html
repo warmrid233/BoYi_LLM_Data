@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block title %} Deleting computers from experiment {% endblock %}
+
+{% block content %} 
+
+<h3>Deleting a player</h3>
+<p>By entering and submitting the correct password, you can delete
+the current computer from the experiment. </p>
+<p> Please, only do this if you are absolutely sure, this action
+cannot be undone.</p>
+
+<form action="." method="POST">
+<table>
+{{ form.as_table }}
+</table>
+<br>
+<input type=submit>
+</form>
+
+
+{% endblock %}

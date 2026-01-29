@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block title %}Welcome{% endblock %}
+
+{% block content %}
+<p>Please log in.</p>
+
+<form action="." method="POST">
+<table>
+{{ login.as_table }}
+</table>
+<input type="submit" value="Log in">
+</form>
+
+<p><a href="{% url mmex.views.new_user %}">Register</a> as new user.</p>
+{% endblock %}
