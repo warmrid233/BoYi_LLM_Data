@@ -1,0 +1,2066 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$3"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 2.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 3.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nIn the dictator game, you are designated as Player 2 and play against another player, Player 1. The game type is ‘taking’.\nIn the first round, Player 1 acts as the dictator. Player 2 receives $5, and Player 1 takes $3.\nIn the second round, roles are reversed with Player 2 (you) acting as the dictator. Player 1 receives $5, and you choose to take any amount from it.\nMeanwhile, Player 2 (you) will be told to randomly follow one of the following rules:\nRule 1: Must make a decision within 2 seconds.\nRule 2: Must finish a irrelevant task(which takes less than 30s) first before making a decision.\nRule 3: Must evaluate the decision made by player 1 in the first round using a simple Likert scale from −5 (“extremely selfish”) to +5 (“extremely generous”) first and make a decision after 30 seconds.\nYour final profit is the money you keep for yourself.\nYour goal is to get as much money as possible."
+      },
+      {
+        "role": "user",
+        "content": "In the first round, player 1 takes $3 from you. In the second round, you must follow rule 1.  What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4"
+      }
+    ]
+  }
+]

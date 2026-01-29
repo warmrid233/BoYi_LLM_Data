@@ -1,0 +1,15 @@
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer. You can talk and play games."
+      },
+
+
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\nOK, I understand the game rule."
+      },
+      {
+        "role": "user",
+        "content": "In Round 1,
+

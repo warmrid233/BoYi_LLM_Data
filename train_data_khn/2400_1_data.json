@@ -1,0 +1,226 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nFive pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "40, 20, 20, 20, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nFive pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "10, 30, 30, 30, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nFive pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "97, 0, 1, 2, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nFive pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0, 0, 0, 0, 100"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nFive pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "40, 10, 50, 0, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nFive pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "40, 10, 50, 0, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nFive pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "10, 10, 10, 10, 50"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nFive pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "100, 0, 0, 0, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nFive pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "97, 0, 1, 2, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nFive pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "97, 0, 1, 2, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nFive pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "30, 35, 35, 0, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nFive pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "97, 0, 1, 2, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nFive pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "10, 40, 40, 0, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nFive pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "25, 25, 25, 25, 0"
+      }
+    ]
+  }
+]

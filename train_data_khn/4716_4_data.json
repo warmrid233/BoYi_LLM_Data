@@ -1,0 +1,1154 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 10, 20 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'conditional cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 5, 10, 20 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'conditional cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 5, 10, 15, 20 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'conditional cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "4 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 5, 10, 10 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'conditional cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 5, 10, 10 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'conditional cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "8 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "15 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 10, 15, 10 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'humped cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 5, 10, 10, 10 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'conditional cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "7 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 5, 10, 10 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'conditional cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 5, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'humped cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 10, 20, 20 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'conditional cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 5, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'humped cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 5, 10, 15, 20 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'conditional cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 5, 10, 15, 20 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'conditional cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 5, 5, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'humped cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 5, 0, 0, 20 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'conditional cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "3 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 20 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'conditional cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "12 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "8 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 5, 10, 10 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'conditional cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 5, 10 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'conditional cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 5, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'humped cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 20, 20 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'conditional cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 10, 20 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'conditional cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "7 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "2 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "8 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 5, 10, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'humped cooperator'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "0 MU"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer.\nParticipants were randomly divided into groups of 4, and the interaction partners were computer players (between-group design).\nEach participant starts with 20 Monetary Units (MU) and must choose how much to contribute to the group project (0–20 MU).\nContribution scaling and distribution: Multiply the total contributions of all members by 2, then distribute them equally among 4 members.\nIndividual marginal return: Contributing 1 MU yields 0.5 MU in personal gain, so the optimal strategy is to contribute 0 MU.\nThis game is a one-time decision-making activity where participants are fully aware that there will be no repeated interactions.\nAll decisions and benefits are anonymized to avoid interference from social image pressure.\nThe game involves two decision-making phases: \n3.Conditional contribution participants must report their respective contribution levels for five possible average contribution levels (0, 5, 10,15,20 MU) of the other three members. Based on this, participants are categorized into four behavioral types: \"Conditional cooperators\" (whose contribution increases with others 'contributions), \"Free riders\" (always contributing 0), \"Humped cooperators\" (whose contribution first increases and then decreases with others' contributions), and \"Other\" (not fitting any of the above categories).\nAfter completing the unconditional contribution task, participants must privately determine their contribution amount to the group project in a single decision (independent of others' actions)."
+      },
+      {
+        "role": "user",
+        "content": "For the other three computer members, you have assigned contribution levels 0, 0, 0, 0, 0 MU corresponding to their five possible average contribution levels (0, 5, 10,15,20 MU), and been labeled as 'free rider'. In the end, what is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 MU"
+      }
+    ]
+  }
+]

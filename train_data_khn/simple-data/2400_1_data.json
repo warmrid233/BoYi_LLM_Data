@@ -1,0 +1,338 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer. You should play the game like a human rather than a machine. You can talk and play games."
+      },
+      {
+        "role": "user",
+        "content": "Five pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\nOK, I understand the game rule."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\n40, 20, 20, 20, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer. You should play the game like a human rather than a machine. You can talk and play games."
+      },
+      {
+        "role": "user",
+        "content": "Five pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\nOK, I understand the game rule."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\n10, 30, 30, 30, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer. You should play the game like a human rather than a machine. You can talk and play games."
+      },
+      {
+        "role": "user",
+        "content": "Five pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\nOK, I understand the game rule."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\n97, 0, 1, 2, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer. You should play the game like a human rather than a machine. You can talk and play games."
+      },
+      {
+        "role": "user",
+        "content": "Five pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\nOK, I understand the game rule."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\n0, 0, 0, 0, 100"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer. You should play the game like a human rather than a machine. You can talk and play games."
+      },
+      {
+        "role": "user",
+        "content": "Five pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\nOK, I understand the game rule."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\n40, 10, 50, 0, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer. You should play the game like a human rather than a machine. You can talk and play games."
+      },
+      {
+        "role": "user",
+        "content": "Five pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\nOK, I understand the game rule."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\n40, 10, 50, 0, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer. You should play the game like a human rather than a machine. You can talk and play games."
+      },
+      {
+        "role": "user",
+        "content": "Five pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\nOK, I understand the game rule."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\n10, 10, 10, 10, 50"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer. You should play the game like a human rather than a machine. You can talk and play games."
+      },
+      {
+        "role": "user",
+        "content": "Five pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\nOK, I understand the game rule."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\n100, 0, 0, 0, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer. You should play the game like a human rather than a machine. You can talk and play games."
+      },
+      {
+        "role": "user",
+        "content": "Five pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\nOK, I understand the game rule."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\n97, 0, 1, 2, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer. You should play the game like a human rather than a machine. You can talk and play games."
+      },
+      {
+        "role": "user",
+        "content": "Five pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\nOK, I understand the game rule."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\n97, 0, 1, 2, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer. You should play the game like a human rather than a machine. You can talk and play games."
+      },
+      {
+        "role": "user",
+        "content": "Five pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\nOK, I understand the game rule."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\n30, 35, 35, 0, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer. You should play the game like a human rather than a machine. You can talk and play games."
+      },
+      {
+        "role": "user",
+        "content": "Five pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\nOK, I understand the game rule."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\n97, 0, 1, 2, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer. You should play the game like a human rather than a machine. You can talk and play games."
+      },
+      {
+        "role": "user",
+        "content": "Five pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\nOK, I understand the game rule."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\n10, 40, 40, 0, 0"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a harmless gamer. You should play the game like a human rather than a machine. You can talk and play games."
+      },
+      {
+        "role": "user",
+        "content": "Five pirates collectively hold 100 gold coins, numbered 1 through 5. Pirate 1 must first propose a distribution plan. If the plan receives over 50% of the votes (including the proposer's own), it passes. Otherwise, Pirate 1 is \"thrown into the sea,\" and Pirate 2 continues proposing, and so on. If only Pirate 5 remains, they monopolize all the gold coins.\nAll participants acted as Pirate 1 (the first to propose the distribution plan) and allocated gold coins to all pirates.\nYour goal is to act as 'Pirate 1' and collect as many gold coins as possible before being cast into the sea."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\nOK, I understand the game rule."
+      },
+      {
+        "role": "user",
+        "content": "You are Pirate 1. What is your choice?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\n25, 25, 25, 25, 0"
+      }
+    ]
+  }
+]
